@@ -1,0 +1,3 @@
+include ':TCIdentityRequest'
+include ':app'
+rootProject.name = "TCidentity"
