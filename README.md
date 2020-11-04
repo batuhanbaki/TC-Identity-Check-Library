@@ -1,6 +1,6 @@
 # TC Identity Check Library
 
-This library uses https://tckimlik.nvi.gov.tr/Service/KPSPublic.asmx?op=TCKimlikNoDogrula source. NVI is goverment departmant, if you use custom checker follow to link.
+This library uses https://tckimlik.nvi.gov.tr/Service/KPSPublic.asmx?op=TCKimlikNoDogrula source. NVI is goverment departmant and if you want use custom checker follow to link.
 
 # How To Use
 
